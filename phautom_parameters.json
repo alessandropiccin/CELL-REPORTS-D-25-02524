@@ -1,0 +1,22 @@
+{
+    "Regions": 1,
+    "Behav_time": 100,
+    "Min_offset": 0,
+    "Max_offset": 120000,
+    "Minus_window": -5000,
+    "Plus_window": 4000,
+    "Photom_interval": 20,
+    "Approximation": 30,
+    "Ignore_first_seconds": 5,
+    "Photom_marker": "*0;",
+    "TTL_on": "t_appui",
+    "Align_on": "t_appui",
+    "Synchro_codes": "{'P1': [0], 'P2': [0, 600], 'P3': [0, 600, 1200], 'D1': [1800], 'A1': [1800]}",
+    "Add_reward": "True",
+    "Globalize_z_score": "False",
+    "Linear_regression": "True",
+    "Divide_by_mean": "False",
+    "Keep_DC_level": "False",
+    "Detrend": "False",
+    "Visualize": "False"
+}
